@@ -1,0 +1,849 @@
+{
+	"Settings": {
+		"outputToConsole": true 
+	},
+	"Items": {
+		"nightium": 12345,
+		"sublime": 50000,
+		"average_bonus_nightium": 30000,
+		"jaspers": {
+			"Fire": {
+				"purple": 0,
+				"blue": 123,
+				"green": 123
+			},
+			"Water": {
+				"purple": 0,
+				"blue": 123,
+				"green": 123
+			},
+			"Thunder": {
+				"purple": 0,
+				"blue": 123,
+				"green": 123
+			},
+			"Forest": {
+				"purple": 0,
+				"blue": 123,
+				"green": 123
+			},
+			"General": {
+				"purple": 1,
+				"blue": 123,
+				"green": 123
+			}
+		}
+	},
+	"Characters": {
+		"Charon": {
+			"ignore": false,
+			"stars": 6,
+			"element": "Fire",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Gronru": {
+			"ignore": false,
+			"stars": 6,
+			"element": "Thunder",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Eicy": {
+			"ignore": false,
+			"stars": 6,
+			"element": "Fire",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Bethel": {
+			"ignore": false,
+			"stars": 6,
+			"element": "Water",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Reinhardt": {
+			"ignore": false,
+			"stars": 6,
+			"element": "Thunder",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Hiro": {
+			"ignore": false,
+			"stars": 6,
+			"element": "Forest",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Michael": {
+			"ignore": false,
+			"stars": 6,
+			"element": "Thunder",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Areia": {
+			"ignore": false,
+			"stars": 5,
+			"element": "Forest",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Maggie": {
+			"ignore": false,
+			"stars": 5,
+			"element": "Fire",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Raphael": {
+			"ignore": false,
+			"stars": 6,
+			"element": "Water",
+			"level": "A3 30",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Pact": {
+			"ignore": false,
+			"stars": 5,
+			"element": "Forest",
+			"level": "A3 24",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Kleken": {
+			"ignore": false,
+			"stars": 5,
+			"element": "Water",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Smokey": {
+			"ignore": false,
+			"stars": 6,
+			"element": "Fire",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Uriel": {
+			"ignore": false,
+			"stars": 6,
+			"element": "Fire",
+			"level": "A3 13",
+			"equipment": 1,
+			"targetLvl": "A3 30",
+			"targetEquipment": 10
+		},
+		"Philyshy": {
+			"ignore": false,
+			"stars": 5,
+			"element": "Water",
+			"level": "A3 30",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Sharona": {
+			"ignore": false,
+			"stars": 6,
+			"element": "Water",
+			"level": "A3 10",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Sikare": {
+			"ignore": false,
+			"stars": 5,
+			"element": "Forest",
+			"level": "A3 10",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Irridon": {
+			"ignore": false,
+			"stars": 6,
+			"element": "Forest",
+			"level": "A3 10",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Hydrad": {
+			"ignore": false,
+			"stars": 5,
+			"element": "Water",
+			"level": "A3 30",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Leona": {
+			"ignore": false,
+			"stars": 5,
+			"element": "Fire",
+			"level": "A3 1",
+			"equipment": 6,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Alice": {
+			"ignore": false,
+			"stars": 4,
+			"element": "Fire",
+			"level": "A3 1",
+			"equipment": 7,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Nemesis": {
+			"ignore": false,
+			"stars": 5,
+			"element": "Thunder",
+			"level": "A2 50",
+			"equipment": 7,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Uriah": {
+			"ignore": false,
+			"stars": 4,
+			"element": "Forest",
+			"level": "A2 30",
+			"equipment": 3,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Roy": {
+			"ignore": false,
+			"stars": 5,
+			"element": "Thunder",
+			"level": "A2 50",
+			"equipment": 1,
+			"targetLvl": "A3 30",
+			"targetEquipment": 10
+		},
+		"Amenori": {
+			"ignore": false,
+			"stars": 6,
+			"element": "Thunder",
+			"level": "A2 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"QUEEN": {
+			"ignore": false,
+			"stars": 6,
+			"element": "Thunder",
+			"level": "A2 50",
+			"equipment": 1,
+			"targetLvl": "A3 30",
+			"targetEquipment": 10
+		},
+		"Regina": {
+			"ignore": false,
+			"stars": 6,
+			"element": "Thunder",
+			"level": "A2 1",
+			"equipment": 3,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Vivian": {
+			"ignore": false,
+			"stars": 5,
+			"element": "Thunder",
+			"level": "A1 40",
+			"equipment": 2,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"May": {
+			"ignore": false,
+			"stars": 5,
+			"element": "Forest",
+			"level": "A1 40",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"JOKER": {
+			"ignore": false,
+			"stars": 6,
+			"element": "Fire",
+			"level": "A2 50",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"MONA": {
+			"ignore": false,
+			"stars": 6,
+			"element": "Forest",
+			"level": "A1 40",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"VIOLET": {
+			"ignore": false,
+			"stars": 5,
+			"element": "Fire",
+			"level": "A1 6",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Odi": {
+			"ignore": false,
+			"stars": 5,
+			"element": "Forest",
+			"level": "A1 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"FOX": {
+			"ignore": false,
+			"stars": 5,
+			"element": "Water",
+			"level": "A1 40",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Vice": {
+			"ignore": false,
+			"stars": 5,
+			"element": "Water",
+			"level": "A0 30",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Erica": {
+			"ignore": false,
+			"stars": 5,
+			"element": "Thunder",
+			"level": "A0 30",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Kafka": {
+			"ignore": false,
+			"stars": 4,
+			"element": "Thunder",
+			"level": "A0 30",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Ms. Blanc": {
+			"ignore": false,
+			"stars": 4,
+			"element": "Water",
+			"level": "A0 30",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Chloe": {
+			"ignore": false,
+			"stars": 4,
+			"element": "Water",
+			"level": "A0 30",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Dayna": {
+			"ignore": false,
+			"stars": 5,
+			"element": "Thunder",
+			"level": "A0 26",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Mia": {
+			"ignore": false,
+			"stars": 5,
+			"element": "Thunder",
+			"level": "A0 13",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Robyn": {
+			"ignore": false,
+			"stars": 5,
+			"element": "Forest",
+			"level": "A0 9",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Barbara": {
+			"ignore": false,
+			"stars": 5,
+			"element": "Fire",
+			"level": "A0 2",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Schwartz": {
+			"ignore": false,
+			"stars": 5,
+			"element": "Thunder",
+			"level": "A0 2",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Nadine": {
+			"ignore": false,
+			"stars": 4,
+			"element": "Thunder",
+			"level": "A0 2",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Keating": {
+			"ignore": false,
+			"stars": 5,
+			"element": "Thunder",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Noah": {
+			"ignore": false,
+			"stars": 5,
+			"element": "Water",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Benny and Curo": {
+			"ignore": false,
+			"stars": 5,
+			"element": "Fire",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Taki": {
+			"ignore": false,
+			"stars": 5,
+			"element": "Fire",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Istvan": {
+			"ignore": false,
+			"stars": 5,
+			"element": "Fire",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Genevieve": {
+			"ignore": false,
+			"stars": 5,
+			"element": "Fire",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Kayano": {
+			"ignore": false,
+			"stars": 5,
+			"element": "Water",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Louise": {
+			"ignore": false,
+			"stars": 5,
+			"element": "Forest",
+			"level": "A3 15",
+			"equipment": 1,
+			"targetLvl": "A3 40",
+			"targetEquipment": 10
+		},
+		"Tweety": {
+			"ignore": false,
+			"stars": 4,
+			"element": "Water",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Rabbie": {
+			"ignore": false,
+			"stars": 4,
+			"element": "Thunder",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Joanie Boom": {
+			"ignore": false,
+			"stars": 4,
+			"element": "Fire",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Nails": {
+			"ignore": false,
+			"stars": 4,
+			"element": "Fire",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Chandra": {
+			"ignore": false,
+			"stars": 4,
+			"element": "Fire",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Sylva": {
+			"ignore": false,
+			"stars": 4,
+			"element": "Forest",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Wendy": {
+			"ignore": false,
+			"stars": 4,
+			"element": "Forest",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Patty & Patsy": {
+			"ignore": false,
+			"stars": 4,
+			"element": "Fire",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Michenny": {
+			"ignore": false,
+			"stars": 4,
+			"element": "Water",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Brock": {
+			"ignore": false,
+			"stars": 4,
+			"element": "Fire",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Lilliam": {
+			"ignore": false,
+			"stars": 4,
+			"element": "Thunder",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Jane": {
+			"ignore": false,
+			"stars": 4,
+			"element": "Water",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Lester": {
+			"ignore": false,
+			"stars": 4,
+			"element": "Forest",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Ansia": {
+			"ignore": false,
+			"stars": 4,
+			"element": "Thunder",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Tessa": {
+			"ignore": false,
+			"stars": 4,
+			"element": "Thunder",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Pasolo": {
+			"ignore": false,
+			"stars": 4,
+			"element": "Forest",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Hachi & Gin": {
+			"ignore": false,
+			"stars": 4,
+			"element": "Thunder",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Jola": {
+			"ignore": false,
+			"stars": 4,
+			"element": "Forest",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Constantine": {
+			"ignore": false,
+			"stars": 4,
+			"element": "Water",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Kuma & Pengy": {
+			"ignore": false,
+			"stars": 4,
+			"element": "Water",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A3 50",
+			"targetEquipment": 10
+		},
+		"Korgon": {
+			"ignore": false,
+			"stars": 3,
+			"element": "Water",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A2 50",
+			"targetEquipment": 10
+		},
+		"Chainsaw Rick": {
+			"ignore": false,
+			"stars": 3,
+			"element": "Fire",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A2 50",
+			"targetEquipment": 10
+		},
+		"Zoya": {
+			"ignore": false,
+			"stars": 3,
+			"element": "Water",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A2 50",
+			"targetEquipment": 10
+		},
+		"Seleucid": {
+			"ignore": false,
+			"stars": 3,
+			"element": "Water",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A2 50",
+			"targetEquipment": 10
+		},
+		"Sort & Bekk": {
+			"ignore": false,
+			"stars": 3,
+			"element": "Fire",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A2 50",
+			"targetEquipment": 10
+		},
+		"Dove": {
+			"ignore": false,
+			"stars": 3,
+			"element": "Forest",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A2 50",
+			"targetEquipment": 10
+		},
+		"Jomu": {
+			"ignore": false,
+			"stars": 3,
+			"element": "Forest",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A2 50",
+			"targetEquipment": 10
+		},
+		"Amy": {
+			"ignore": false,
+			"stars": 3,
+			"element": "Thunder",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A2 50",
+			"targetEquipment": 10
+		},
+		"Pepi": {
+			"ignore": false,
+			"stars": 3,
+			"element": "Fire",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A2 50",
+			"targetEquipment": 10
+		},
+		"White Dwarf": {
+			"ignore": false,
+			"stars": 3,
+			"element": "Water",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A2 50",
+			"targetEquipment": 10
+		},
+		"Unimet": {
+			"ignore": false,
+			"stars": 3,
+			"element": "Thunder",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A2 50",
+			"targetEquipment": 10
+		},
+		"Ophina": {
+			"ignore": false,
+			"stars": 3,
+			"element": "Forest",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A2 50",
+			"targetEquipment": 10
+		},
+		"Leah": {
+			"ignore": false,
+			"stars": 3,
+			"element": "Forest",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A2 50",
+			"targetEquipment": 10
+		},
+		"Clover": {
+			"ignore": false,
+			"stars": 3,
+			"element": "Forest",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A2 50",
+			"targetEquipment": 10
+		},
+		"Tiny One": {
+			"ignore": false,
+			"stars": 3,
+			"element": "Fire",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A2 50",
+			"targetEquipment": 10
+		},
+		"Angel": {
+			"ignore": false,
+			"stars": 3,
+			"element": "Thunder",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A2 50",
+			"targetEquipment": 10
+		},
+		"Eho": {
+			"ignore": false,
+			"stars": 3,
+			"element": "Thunder",
+			"level": "A0 1",
+			"equipment": 1,
+			"targetLvl": "A2 50",
+			"targetEquipment": 10
+		}
+	}
+}
