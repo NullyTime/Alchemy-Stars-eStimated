@@ -19,8 +19,8 @@ Alchemy Stars eStimated, or ASS for short, is a simple planner for character upg
 - `pkg install wget`
 - `wget https://github.com/NullyTime/Alchemy-Stars-eStimated/archive/refs/tags/release.zip`
 - `unzip release.zip`
-3. Use standard Android file manager (such as `Files`), go to Termux/Alchemy-Stars-eStimated-stable folder and copy `templateBelongings.json` file to `Downloads`.
-4. Rename `templateBelongings.json` to `Belongings.json`, edit it with your data and copy to `Termux/Alchemy-Stars-eStimated-stable` folder.
+3. Use standard Android file manager (such as `Files`), go to Termux/Alchemy-Stars-eStimated-release folder and copy `templateBelongings.json` file to `Downloads`.
+4. Rename `templateBelongings.json` to `Belongings.json`, edit it with your data and copy to `Termux/Alchemy-Stars-eStimated-release` folder.
 5. Open Termux app again and run: 
 - `cd Alchemy-Stars-eStimated-release`
 - `node main.js`.
